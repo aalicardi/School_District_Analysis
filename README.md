@@ -13,6 +13,7 @@ The purpose of this analysis is to reanalyze standardized test score data follow
 The findings of this analysis is then compared to the original analysis that was performed prior to the removal of suspected cheating data. 
 
 # Results
+Several key metrics were analyzed in this project. The results for each of these metrics following the removal of the 9th grade test scored at Thomas High School are displayed in tables below, alongside the results from the original analysis.
 
 ## Top 5 Peforming Schools
 ![image](https://user-images.githubusercontent.com/105028515/180625430-45e5a13b-21b2-4864-b34c-804165b594b4.png)
