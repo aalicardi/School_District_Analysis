@@ -22,8 +22,10 @@ The findings of this analysis is then compared to the original analysis that was
 ![image](https://user-images.githubusercontent.com/105028515/180625446-0fcf78eb-5379-4603-863b-0e49fbca8916.png)
 
 ## Average math score for each grade level at each school
+![image](https://user-images.githubusercontent.com/105028515/180625590-f4a8ff8d-d398-41a8-8c9c-4fb1d1258b16.png)
 
 ## Average Reading score for each grade level at each school
+![image](https://user-images.githubusercontent.com/105028515/180625600-20d57718-6ddb-40ba-930f-fc72c3fb74fa.png)
 
 ## School performance based on budget per student
 
