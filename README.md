@@ -28,9 +28,14 @@ The findings of this analysis is then compared to the original analysis that was
 ![image](https://user-images.githubusercontent.com/105028515/180625600-20d57718-6ddb-40ba-930f-fc72c3fb74fa.png)
 
 ## School performance based on budget per student
+![image](https://user-images.githubusercontent.com/105028515/180625820-b959ee78-9743-4c2c-b183-4a52677a32d8.png)
 
 ## School performance based on school size
+![image](https://user-images.githubusercontent.com/105028515/180625839-15728237-5679-4f77-b20e-af0666953c3a.png)
 
 ## School performance based on school type
+![image](https://user-images.githubusercontent.com/105028515/180625854-78345dfa-5ef1-4eb0-b7f2-72997812e5bf.png)
 
 # Summary
+There are a few changes to the school district analysis report that we see after replacing the reading and math scores of the ninth graders at Thomas High School. The overall performance for Thomas High School slightly decreased when removing the ninth grade test scores. However, this decrease was minimal and did not affect their ranking amongst other schools in the district - Thomas High School still ranked #2. Passing percentage for Thomas Highschool plummited greatly once these scores were replaced with NaN, but this was to be expected. As such, these scored were ommited when calculating the overall passwing rate for the school. It is also worth noting that the ninth graders at Thomas High School performed very well in math and reading in the original analysis of their scores by grade, especially compared to othere schools in the district. Once their grades were removed, however, we are no longer able to compare their performance to other schools.
+2.
