@@ -15,6 +15,7 @@ The findings of this analysis is then compared to the original analysis that was
 # Results
 
 ## Top 5 Peforming Schools
+![image](https://user-images.githubusercontent.com/105028515/180625430-45e5a13b-21b2-4864-b34c-804165b594b4.png)
 
 
 ## Bottom 5 Performing Schools
