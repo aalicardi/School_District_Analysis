@@ -19,6 +19,7 @@ The findings of this analysis is then compared to the original analysis that was
 
 
 ## Bottom 5 Performing Schools
+![image](https://user-images.githubusercontent.com/105028515/180625446-0fcf78eb-5379-4603-863b-0e49fbca8916.png)
 
 ## Average math score for each grade level at each school
 
